@@ -22,4 +22,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-![Project Repo Link](https://github.com/tiahk23/SearchSaver.git)
+![Project Repo Link](https://github.com/tiahk23/SearchSaverProject.git)
