@@ -8,3 +8,6 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 Upload a .PDF of your presentation here for review.
+[.pdf of my presentation](file:///C:/Users/teter/Downloads/Capstone%20Project.pdf)
+
+
